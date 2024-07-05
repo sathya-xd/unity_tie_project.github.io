@@ -3,22 +3,12 @@ Azayd is a IT Consulting Services website. It's fully responsive.
 # Technology used : 
 1. HTML 5
 2. CSS 3
-3. Javascript (vanilla)
-4. Jquery
-5. Bootstrap
-6. MixItUp plugin
+3. Javascript
+
 
 
  
-# Azayd-IT-responsive
-Azayd is a IT Consulting Services website. It's fully responsive. 
-# Technology used : 
-1. HTML 5
-2. CSS 3
-3. Javascript (vanilla)
-4. Jquery
-5. Bootstrap
-6. MixItUp plugin
+
  
 # INTRODUCTION:
 The goal of this project is to develop a professional, user-friendly, and responsive 
